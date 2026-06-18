@@ -76,7 +76,6 @@ graph TD
 ### **Frontend Framework & Styling**
 *   **React 18** (TypeScript, modern functional components, hooks, ref trackers)
 *   **Tailwind CSS** (Utility-first fluid layouts, dark-mode variations, responsive UI)
-*   **Lucide React** (Unified SVG iconography)
 *   **jsPDF** (High-precision medical prescription sheets and ticket PDF compilation)
 *   **Recharts** (Interactive systolic, diastolic, and metabolic tracking charts)
 
