@@ -1,0 +1,11 @@
+{
+  "name": "Healthcare Portal",
+  "description": "Comprehensive healthcare platform featuring a BMI calculator, intelligent AI symptom checker, interactive hospital and pharmacy locator using Google Maps, automated appointment booking system, clinical insights blog, and administrative analytics dashboard.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
