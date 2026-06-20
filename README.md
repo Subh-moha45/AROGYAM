@@ -1,4 +1,4 @@
-# 🩺 AROGYAM:  AI-driven Healthcare portal
+# 🩺 AROGYAM:  AI-powered Healthcare Portal
 
 AROGYAM is a modern, full-stack, AI-powered health assistant and outpatient department (OPD) management ecosystem. Built with a high-fidelity React frontend, dynamic Tailwind styling, and a powerful Node.js/Express server, AROGYAM leverages **Google Gemini APIs** to analyze symptoms, translate medical summaries in real-time, drive intuitive conversational health assistance, and predict metabolic health risks.
 
